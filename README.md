@@ -70,8 +70,8 @@ pkg install rclone jq coreutils findutils ncurses-utils less termux-api
 termux-setup-storage
 
 # 3. Get the script
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/AARENKAY/rclone-manager.git
+cd rclone-manager
 chmod +x rclone.sh
 
 # 4. Run it
@@ -184,7 +184,7 @@ Issues and pull requests are welcome. Please run `bash -n rclone.sh` (and `shell
 
 ## License
 
-Add a license before publishing, for example MIT (`LICENSE` file) so others know how they may use the code.
+Released under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
