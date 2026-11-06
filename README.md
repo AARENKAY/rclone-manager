@@ -9,6 +9,33 @@ An interactive, numbered-menu file manager and transfer manager for [rclone](htt
 
 > Not affiliated with the rclone project. This script only drives the `rclone` command-line tool.
 
+## Screenshots
+
+<table>
+<tr>
+<td width="50%" align="center"><img src="screenshots/01-main-menu.png" width="100%"><br><b>Main menu</b></td>
+<td width="50%" align="center"><img src="screenshots/02-file-manager.png" width="100%"><br><b>File manager</b></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="screenshots/03-destination-menu.png" width="100%"><br><b>Destination picker (remembers the last one)</b></td>
+<td width="50%" align="center"><img src="screenshots/04-transfer-manager.png" width="100%"><br><b>Transfer manager</b></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="screenshots/05-job-monitor.png" width="100%"><br><b>Live job monitor</b></td>
+<td width="50%" align="center"><img src="screenshots/09-search-results.png" width="100%"><br><b>Search results</b></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="screenshots/06-remote-manager-token-error.png" width="100%"><br><b>Expired token detected</b></td>
+<td width="50%" align="center"><img src="screenshots/07-reconnect-prompt.png" width="100%"><br><b>One-key reconnect offer</b></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img src="screenshots/08-failed-job-hint.png" width="100%"><br><b>Failed job with a hint</b></td>
+<td width="50%" align="center"><img src="screenshots/10-settings.png" width="100%"><br><b>Settings</b></td>
+</tr>
+</table>
+
+<sub>Demo data only (a made-up account and files). Drawn at 52 columns, a typical phone terminal width.</sub>
+
 ## Features
 
 ### File Manager
